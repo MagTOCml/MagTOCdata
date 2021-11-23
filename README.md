@@ -8,7 +8,7 @@ directory of copies of the JPG images of these TOC pages.
 If used as is, this repo can be cloned locally and then its `tocdata`
 directory can be copied into a local clone of the MagTOCspotter app as part
 of the *MagTOCml* project. In this use case, your local app installation will
-have its `tocdata` subdirectory overwritten with the state od the when-cloned
+have its `tocdata` subdirectory overwritten with the state of the when-cloned
 `MagTOCdata` repository. At initial commit, this means you will be working with
 an app state where 430 TOC pages have been spotted in 377 computer magazine
 issues in the collections of the Internet Archive.
@@ -23,7 +23,7 @@ MagTOCdata repo, you will be gathering good data that can _eventually_
 contributed to the *MagTOCml* project. In the worst case, you and another
 contributor _might_ spot the same TOC in the same issue of a magazine because
 we don't have a process for real-time updating of the CSV files which
-maintain the registry of done issues ans spotted TOC page leaf IDs.
+maintain the registry of done issues and spotted TOC page leaf IDs.
 
 This aspect of the MagTOCml project community workflow is under development.
 
